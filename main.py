@@ -147,5 +147,5 @@ async def reviews(ctx, options : str):
 
                 await ctx.send("**📚 " + time + "** - " + label + " " + professor + " " + section + " " + exam + ".")
 
-bot.run('OTAzMDEzMTUzMTIwNjEyMzgy.YXmyiA.KCxWL1spduCzxx8kZlH4kLOUF2k')
+bot.run('**DISCORD BOT TOKEN**')
 
